@@ -10,9 +10,11 @@
 - 🌱 I’m currently learning **JAVA for testing and development**
 
 - 💬 Ask me about **C/C++, Competitive programming**
-
+  
+- 💼 Served as **Programming Fundamentals TA**
+  
 - 📫 How to reach me **hassancharr2046@gmail.com**
-
+  
 - ⚡ Fun fact **I am basketball player and horse rider**
 
 <h3 align="left">Connect with me:</h3>
