@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/mr_hassan46" target="blank"><img src="https://img.shields.io/twitter/follow/mr_hassan46?logo=twitter&style=for-the-badge" alt="mr_hassan46" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Mr_Hassan46" target="blank"><img src="https://img.shields.io/twitter/follow/mr_hassan46?logo=twitter&style=for-the-badge" alt="mr_hassan46" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA for testing and development**
 
