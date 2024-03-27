@@ -8,8 +8,6 @@
 
 
 - 🌱 I’m currently learning **JAVA for testing and development**
-
-- 💬 Ask me about **C/C++, Competitive programming**
   
 - 💼 Served as **Programming Fundamentals TA**
   
